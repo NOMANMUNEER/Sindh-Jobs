@@ -44,7 +44,7 @@ Make sure you have Node.js (version 18.x or later) and npm installed on your mac
 
 1.  **Clone the repository**
     ```sh
-    # Replace YOUR_GITHUB_USERNAME with your actual username
+    
     git clone [https://github.com/NOMANMUNEER/Sindh-Jobs.git](https://github.com/NOMANMUNEER/Sindh-Jobs.git)
     ```
 
